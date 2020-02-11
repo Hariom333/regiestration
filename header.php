@@ -26,18 +26,21 @@
 	  	<li class="nav-item ">
 	     <h2 class="text-white">Student Management</h2>
 	  	</li>	
-	    <li class="nav-item">
-	      <a class="nav-link text-white" href="admin/login.php"> login</a>   
+	   <li class="nav-item">
+	      <a class="nav-link text-white" href="add_student.php">SingUp</a>   
 	    </li>
 	    <li class="nav-item">
-	      <a class="nav-link text-white" href="admin/add_student.php"> SingUp</a>   
+	      <a class="nav-link text-white" href="login.php">Login</a>   
 	    </li>
 	     <li class="nav-item">
-	      <a class="nav-link text-white" href="admin/admin_login.php"> Admin</a>   
+	      <a class="nav-link text-white" href="../index.php"> Home</a>   
 	    </li>
-	  
+	     
 	    	  </ul>
-	</nav>
+	  
+
+
+</nav>
 </div>
 
 </body>
